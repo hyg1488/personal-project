@@ -115,6 +115,11 @@ public class Main {
 					System.out.println();
 				}
 				
+			}else if(ch == 2){
+				
+			}
+			else if(ch == 3){
+				break;
 			}
 			
 			gp.save();
